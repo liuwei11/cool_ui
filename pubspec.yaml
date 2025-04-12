@@ -9,7 +9,7 @@ environment:
 
 
 dependencies:
-  back_button_interceptor: 7.0.2
+  back_button_interceptor: any
   flutter:
     sdk: flutter
 
